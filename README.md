@@ -53,3 +53,5 @@ Create the second pie chart with Matplotlib's pyplot methods.
 #### Calculate Correlation and Regression
 1. Calculate the correlation coefficient and linear regression model between mouse weight and average tumor volume for the Capomulin treatment.
 2. Plot the linear regression model on top of the previous scatter plot.
+<img width="607" alt="image" src="https://user-images.githubusercontent.com/62813833/230239257-4f7fb1ba-9a3d-4a06-bf98-933473e1874a.png">
+
