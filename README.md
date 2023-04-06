@@ -47,7 +47,7 @@ Create the second pie chart with Matplotlib's pyplot methods.
 1. Select a mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
 2. Generate a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
 
-<img width="460" alt="image" src="https://user-images.githubusercontent.com/62813833/230239497-5a5da891-307c-4170-b0ed-159005abdfd9.png">
+<img width="460" alt="image" src="https://user-images.githubusercontent.com/62813833/230239722-6838d48e-743b-4266-9c0d-cb92c75b5763.png">
 
 <img width="460" alt="image" src="https://user-images.githubusercontent.com/62813833/230239444-bdcd24a2-147d-47a8-9805-3f90d412ecd8.png">
 
