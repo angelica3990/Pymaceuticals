@@ -40,14 +40,16 @@ Create the second pie chart with Matplotlib's pyplot methods.
 1. Calculate the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Then, calculate the quartiles and IQR, and determine if there are any potential outliers across all four treatment regimens.
 2. Using Matplotlib, generate a box plot that shows the distribution of the final tumor volume for all the mice in each treatment group. Highlight any potential outliers in the plot by changing their color and style.
 
-![image](https://user-images.githubusercontent.com/62813833/226750415-5a596cf5-adec-4104-a683-2309d83edd07.png)
+<img width="460" alt="image" src="https://user-images.githubusercontent.com/62813833/230239589-6e1fa4b4-f440-4004-9eb6-6ba3546ea5ad.png">
 
 
 #### Create a Line Plot and a Scatter Plot
 1. Select a mouse that was treated with Capomulin, and generate a line plot of tumor volume versus time point for that mouse.
 2. Generate a scatter plot of tumor volume versus mouse weight for the Capomulin treatment regimen.
 
-![image](https://user-images.githubusercontent.com/62813833/226750879-f6ae4534-5664-4822-a8b0-5c52dd0a247d.png)
+<img width="460" alt="image" src="https://user-images.githubusercontent.com/62813833/230239497-5a5da891-307c-4170-b0ed-159005abdfd9.png">
+
+<img width="460" alt="image" src="https://user-images.githubusercontent.com/62813833/230239444-bdcd24a2-147d-47a8-9805-3f90d412ecd8.png">
 
 
 #### Calculate Correlation and Regression
